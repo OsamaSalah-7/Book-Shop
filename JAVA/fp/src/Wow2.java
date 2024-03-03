@@ -1,0 +1,2 @@
+public class Wow2 {
+}
